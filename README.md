@@ -1,3 +1,11 @@
 # doraemon
-Hi! I'm Jacob Liang.
-I work with Python, PHP, C++, JavaScript, Django, SQL, REST APIs, Git, AWS etc., with hands-on experience in software design, different levels of stack development, ambiguity navigation. I am reliable, resilient, collaborative, and committed to expanding emerging expertise and tackling problems. Some projects I/m working on are private or work-related.
+# E-Commerce ERP (Private Repo)
+Built full-stack ERP integrating Amazon, Walmart, eBay, Tmall, Shopify APIs.
+Features:
+- Product mapping and checkout algorithm
+- Order sync
+- Inventory management
+- Inbound automation
+- Alert systems
+- Rate comparison of triple-carrier shipping services
+- Real-time dashboards
