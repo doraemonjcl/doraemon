@@ -1,5 +1,5 @@
 # doraemon
-# E-Commerce ERP (Private Repo)
+# E-Commerce ERP (Work-related Repo)
 Built full-stack ERP integrating Amazon, Walmart, eBay, Tmall, Shopify APIs.
 Features:
 - Product mapping and checkout algorithm
